@@ -67,7 +67,7 @@
 3. apt update
 4. apt install zabbix-agent
 
-### Шаг 2 - запуск прцесса Zabbiz агента:
+### Шаг 2 - запуск прцесса Zabbix агента:
 
 1. systemctl restart zabbix-agent
 2. systemctl enable zabbix-agent
